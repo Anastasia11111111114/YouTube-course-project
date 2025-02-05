@@ -8,6 +8,7 @@ Key features of the project:
 3. Responsive design ensuring optimal display on various screen sizes.
 4. Cross-browser compatibility for consistent performance across different web browsers.
 5. BEM methodology (optional) for maintainable and scalable code.
+
 This project serves as a practical showcase of HTML and CSS skills, making it a valuable addition to a portfolio.
 
 
