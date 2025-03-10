@@ -1,4 +1,4 @@
-# YouTube-course-project
+# YouTube-clone-project
 This project was created as part of an HTML and CSS course, demonstrating fundamental and advanced front-end development skills. It consists of a fully responsive, well-structured layout built using only HTML and CSS, without JavaScript or backend functionality.
 
 Key features of the project:
